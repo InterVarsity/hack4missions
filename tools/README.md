@@ -1,16 +1,5 @@
 # Tools for the Indigitous #hack
 
-This page will serve as a hub for listing tools, software, APIs, and services to the [Indigitous #hack](https://indigitous.org/hack). Feel free to make pull requests to add to and update this list.
-
-## Getting started with the #hack
-
-To get started with the hack:
-
-1. [Register for the #hack](https://indigitous.org/hack)
-1. [Get Slack](https://slack.com/)
-1. Join the [Kingdom Builders Slack](http://kingdombuilders.io/) community. All collaboration will happen through Kingdom Builders Slack. 
-
-
 ## General Tools for the hack
 
 - Bring your tech!
@@ -32,13 +21,6 @@ To get started with the hack:
  - [APIs and data sources](APIs.md)
  - [NLP stuff](NLP.md)
 
-### Learning Resources
+### Find even more resources
 
-  - [Udacity](https://www.udacity.com/pathfinder) 
-    - Includes free courses on computer science, web development, mobile development, and more!
-  - [NodeSchool](https://nodeschool.io)
-    - Free resource to learn NodeJS and related web developer technologies from your command line
-  - [Outsystems Training](https://www.outsystems.com/learn/)
-    - Includes free online courses on how to use Outsystems' low-code platform for quick development turnaround
-  - [Awesome Lists](https://github.com/sindresorhus/awesome)
-    - A repo filled with awesome links and resources  
+  [Awesome Lists](https://github.com/sindresorhus/awesome) is a list-of-lists, each one being a list of great tools and options for different technologies and options for implementing tech projects.

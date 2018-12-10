@@ -1,16 +1,18 @@
-# Indigitous Hack Survival Guide
+# Hack4Missions Resources
 
-Welcome to Indigitous Hack! If you're one of our missionary-hackers looking for resources, this is the place for you! We have collected a number of blog posts, resources, data sets, tutorials, and more in order to help you get your project running in no time.
+Welcome to Urbana 18's Hack4Missions! Our mission is to build and improve technology that helps God's servants share his gospel and grow his kingdom!
 
-In addition to the `#hack` channel on our Slack, your fellow hackers at your site, and the mentors around, you can use this repo to find information you need on things such as which editors to use, how to set up a particular server type, using AWS or Digital Ocean, and even resources on Natural Language Processing.
+This repository is here to help you find all the info you need - descriptions of the challenges, who's who, guidelines, and tools to help you get your work done!
 
+## Find It Here
 
-## Dive in
-
- - [tools](tools/README.md)
- - [tutorials](tutorials/README.md)
- - [challenges](challenges/README.md)
+ - [Challenges](challenges/README.md)
+ - [People](people/README.md)
+ - [Tools](tools/README.md)
+ - [Tutorials](tutorials/README.md)
 
 ### Contributing
 
-See something missing? Want your favorite tool featured? Have a cool article you want to share? Send a pull request and we'll try to get your contribution included!
+If you see a gap in this toolset or your team ends up using something not listed here, you can open a Pull Request to update the lists!
+
+You can also speed up the process by sending a message to @kaldrenon on the Hack4Missions Slack server.
