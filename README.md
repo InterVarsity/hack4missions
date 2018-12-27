@@ -15,6 +15,7 @@ Space: [Magnolia Hotel, 421 North 8th Street, St. Louis, MO 63101](https://www.g
  - [Challenges](challenges/README.md)
  - [People](people/README.md)
  - [Tools](tools/README.md)
+ - [Resources](resources/README.md)
  - [Tutorials](tutorials/README.md)
 
 ### Contributing
