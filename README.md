@@ -7,6 +7,7 @@ This repository is here to help you find all the info you need - descriptions of
 ## Essentials
 
 Slack: https://hack4missions.slack.com/ - use the #_askamentor channel to ask for help!
+
 Space: [Magnolia Hotel, 421 North 8th Street, St. Louis, MO 63101](https://www.google.com/maps/place/Magnolia+Hotel+St.+Louis,+a+Tribute+Portfolio+Hotel/@38.6299843,-90.1921635,15z/data=!4m5!3m4!1s0x0:0x42ef7477f3607a18!8m2!3d38.6299843!4d-90.1921635)
 
 ## Find It Here
