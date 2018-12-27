@@ -19,6 +19,6 @@ Space: [Magnolia Hotel, 421 North 8th Street, St. Louis, MO 63101](https://www.g
 
 ### Contributing
 
-If you see a gap in this toolset or your team ends up using something not listed here, you can open a Pull Request to update the lists!
+If you see a gap in this toolset or your team ends up using something not listed here, you can open a [Pull Request](https://github.com/InterVarsity/hack4missions/pulls) to update the lists!
 
 You can also speed up the process by sending a message to @kaldrenon on the Hack4Missions Slack server.
