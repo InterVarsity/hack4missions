@@ -1,6 +1,6 @@
-## Web Development Tools
+# Web Development Tools
 
-### API testing and building
+## API testing and building
 
   - [PostMan](https://www.getpostman.com/)
     - *THE* tool for testing APIs
@@ -9,7 +9,7 @@
   - [IFTTT](https://ifttt.com)
     - Very similar to Zapier. 
 
-### CORS Tools
+## CORS Tools
 
 Using these tools allow you to make cross origin requests by bypassing CORS headers. This is bad for security and can let hackers steal your data more easily. For more information on CORS check out [MDN](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS).
 
@@ -20,7 +20,7 @@ Using these tools allow you to make cross origin requests by bypassing CORS head
   - [CORS Allow Chrome Plugin](https://chrome.google.com/webstore/detail/allow-control-allow-origi/nlfbmbojpeacfghkpbjhddihlkkiljbi)
     - Simple way to solve Cross Site Scripting issues in your Chrome Browser
 
-### WordPress tools
+## WordPress tools
 
   - [WP-CLI](http://wp-cli.org/)
     - The answer to many WP related headaches. Great for managing updates, backups, and migrations of any WordPress instance.

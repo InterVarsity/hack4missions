@@ -1,9 +1,9 @@
-## APIs and Data sources
+# APIs and Data sources
 
 Below is a curated list of APIs and data sources roughly categorized by type of data
 
-### APIs
-#### Bible search APIs
+## APIs
+### Bible search APIs
 
   - [Bible Search API](https://bibles.org/pages/api)
     - Include Scripture content and text anywhere in their website or application for non-commercial purposes. To access the API, you must be a registered Bible Search user.
@@ -25,16 +25,16 @@ Below is a curated list of APIs and data sources roughly categorized by type of 
       - Android: `580a44b3775b32.45023341` 
       - Web `580a44da6a4655.22089437`
 
-### Data sources
+## Data sources
 
-#### Scriptural text
+### Scriptural text
 
   - [Bible chapters and verses in JSON format](https://github.com/aruljohn/Bible-kjv)
   - [Bible Databases](https://github.com/scrollmapper/bible\_databases)
     - Bible Versions and Cross-Reference Databases: mysql, sqlite, xml, csv, json
   - [Digital Bible Platform](http://www.digitalbibleplatform.com/docs/)
 
-#### Government/Country-level data
+### Government/Country-level data
 
   - [Data.gov.uk](http://data.gov.uk)
     - Find data published by government departments and agencies, public bodies and local authorities. You can use this data to learn more about how government works, carry out research or build applications and services
@@ -43,7 +43,7 @@ Below is a curated list of APIs and data sources roughly categorized by type of 
   - [ProgrammableWeb](http://www.programmableweb.com/apis/directory)
     - Large listing of general APIs across the web
 
-### Useful examples and articles
+## Useful examples and articles
 
   - [Bible data Vizs](http://www.openbible.info/labs/)
   - [Applying sentiment analysis to the Bible](https://www.openbible.info/blog/2011/10/applying-sentiment-analysis-to-the-bible/)
