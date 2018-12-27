@@ -1,5 +1,7 @@
 # Resources for Considering Technology in A Life of Faith
 
+(if you prefer, you can check this out on [Google Drive](https://docs.google.com/document/d/1lg2gHnOR6R9ea3WA5rgyZOQCtjbIxiBNi352UCMW_o4/edit)!)
+
 ## Christianity in a Technology-Driven Culture
 
 - [Rewired: How Using Today's Technology Can Bring You Back to Deeper Relationships, Real Conversations, and the Age-Old Methods of Sharing God's Love](http://www.amazon.com/gp/product/B00G8O5CDW/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00G8O5CDW&linkCode=as2&tag=churc0da-20) (book)
