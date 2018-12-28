@@ -52,7 +52,7 @@ Culture, Creativity and Vision:
 
 - [Getting Started Resources/Blogs List](https://www.dataschool.io/resources/)
 - [data-science-ipython-notebooks](https://github.com/donnemartin/data-science-ipython-notebooks)
-- [Tools Docs from Propensity Models Challenge](https://github.com/CruGlobal/predicting-professions-challenge/blob/master/2_Tools.ipynb)
+- [Tools Docs from the Propensities + Recommendations Challenge](https://github.com/CruGlobal/propensities-recommendations-challenge/blob/master/2_Tools.ipynb)
 
 ## Employment and Entrepreneurship
 

@@ -1,5 +1,5 @@
 # Helpful Tools for Data Science
-A duplicate of the documentation provided in the [Propensity Modeling Challenge Docs](https://github.com/CruGlobal/predicting-professions-challenge/blob/master/2_Tools.ipynb). 
+A duplicate of the documentation provided in the [Propensities + Reocmmendations Challenge Docs](https://github.com/CruGlobal/propensities-recommendations-challenge/blob/master/2_Tools.ipynb). 
 
 ## Anaconda
 The simplest way to get started is by downloading a copy of Anaconda ([about](https://www.anaconda.com/what-is-anaconda/) | [download](https://www.anaconda.com/download/#macos)) onto your machine.  Once that's installed, launch the navigator and open up [JupyterLab](https://jupyterlab.readthedocs.io/en/stable/getting_started/overview.html).  You'll be directed to a locally running instance of JupyterLab in your browser to get started.
