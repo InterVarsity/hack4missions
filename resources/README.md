@@ -48,6 +48,12 @@ Culture, Creativity and Vision:
 - Erik Hersmann's [Reporting Crisis via Texting](http://www.ted.com/talks/erik_hersman_on_reporting_crisis_via_texting) TED talk
 - [Lean UX from Smashing Magazine](http://www.smashingmagazine.com/2011/03/lean-ux-getting-out-of-the-deliverables-business/)
 
+## Data Science
+
+- [Getting Started Resources/Blogs List](https://www.dataschool.io/resources/)
+- [data-science-ipython-notebooks](https://github.com/donnemartin/data-science-ipython-notebooks)
+- [Tools Docs from the Propensities + Recommendations Challenge](https://github.com/CruGlobal/propensities-recommendations-challenge/blob/master/2_Tools.ipynb)
+
 ## Employment and Entrepreneurship
 
 - [The Lean Startup](http://theleanstartup.com/book) (book)
