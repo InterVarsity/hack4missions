@@ -20,7 +20,10 @@
  - [Project Management](pm.md)
  - [APIs and data sources](APIs.md)
  - [NLP](NLP.md)
+ - [Web Scraping Tutorial](https://github.com/CruGlobal/predicting-professions-challenge/blob/master/3_Scraping_tutorial.ipynb)
+ - [Data Science](data-sci.md)
  - [FREE STUFF!](free-stuff.md)
+
 
 ## Technical Skills
 

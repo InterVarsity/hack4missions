@@ -12,3 +12,4 @@
   - [Nginx: How To Secure Nginx with Let's Encrypt on Ubuntu 16.04](https://www.digitalocean.com/community/tutorials/how-to-secure-nginx-with-let-s-encrypt-on-ubuntu-16-04)
   - [React: build with react](http://buildwithreact.com/tutorial)
   - [WordPress: Setting up WordPress on a server](http://www.reliasolve.com/index.php/urbana-15/setting-up-wordpress-on-a-server/)
+  - [Web Scraping](https://github.com/CruGlobal/predicting-professions-challenge/blob/master/3_Scraping_tutorial.ipynb)
